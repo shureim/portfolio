@@ -14,3 +14,8 @@ body{
 #hold {
   color: blue;
 }
+img{
+  text-align: center;
+  width: 500px;
+  height:400px;
+}
