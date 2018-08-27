@@ -6,3 +6,8 @@ body{
   background-color: black;
   /* float: left; */
 }
+body{
+  /* background-image: url(../img/black2.jpeg);
+  background-repeat: repeat; */
+  color: white;
+}
