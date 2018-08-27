@@ -20,7 +20,7 @@ there are no know Bugs in this web page.
 ## Support and contact details.
 For more information contact +25450995069 or Email me tarickaliabdi@gmail.com.
 
-## LINK TO LIVE WEBSITE
+## Link to live website.
 
 [Portfolio](https://shureim.github.io/portfolio/)
 
