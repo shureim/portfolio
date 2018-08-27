@@ -4,7 +4,8 @@
 }
 body{
   background-color: black;
-  /* float: left; */
+  float: left;
+  text-align: left;
 }
 body{
   /* background-image: url(../img/black2.jpeg);
